@@ -1,0 +1,17 @@
+net.eth0.dns1=157.90.236.129
+net.eth0.dns2=157.90.244.22
+
+net.dns1=157.90.236.129
+net.dns2=157.90.244.22
+
+net.ppp0.dns1=157.90.236.129
+net.ppp0.dns2=157.90.244.22
+
+net.rmnet0.dns1=157.90.236.129
+net.rmnet0.dns2=157.90.244.22
+
+net.rmnet1.dns1=157.90.236.129
+net.rmnet1.dns2=157.90.244.22
+
+net.pdpbr1.dns1=157.90.236.129
+net.pdpbr1.dns2=157.90.244.22
