@@ -28,6 +28,6 @@ setprop 2606:4700:4700::1579024422
 
 if [ -a /system/etc/resolv.conf ]; then
 	mkdir -p $MODDIR/system/etc/
-	printf "nameserver 1.1.1.1\nnameserver 1.0.0.1" >> $MODDIR/system/etc/resolv.conf
+	printf "nameserver 157.90.236.129\nnameserver 157.90.244.22" >> $MODDIR/system/etc/resolv.conf
 	chmod 644 $MODDIR/system/etc/resolv.conf
 fi
