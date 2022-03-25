@@ -22,8 +22,6 @@ setprop net.pdpbr1.dns2 157.90.244.22
 setprop 2606:4700:4700::15790236129
 setprop 2606:4700:4700::1579024422
 
-
-
 # Edit the resolv conf file if it exist
 
 if [ -a /system/etc/resolv.conf ]; then
