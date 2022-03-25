@@ -2,8 +2,6 @@
 
 Dies Modul wurde nicht von Sierra Developers entwickelt, der DNS Service ist jedoch von ihnen.
 
-Einfacher Zugriff auf den AMTS-Server kann [hier](http://amts.sd) vorgenommen werden.
-
 # Vorteile?
 
 Ja, die gibts! Du hast kein App und Benachrichtigung, die sind nervig. Das Ganze läuft im Magisk-Systemless-Process.
