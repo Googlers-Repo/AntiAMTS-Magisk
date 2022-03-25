@@ -3,5 +3,5 @@ name=AntiAMTS for Magisk
 version=v1.2
 versionCode=12
 author=Der_Googler & Sierra Community
-description=Anti AMTS Blocker ist eine englische Abkürzung und bedeutet: AntiAdMalwareTrackingandScam-Blocker.
+description=AntiAMTS ist ein kostenloser AdBlocker, der von SierraDevoplers bereitgestellt wird.
 support=https://github.com/DerGoogler/AntiAMTS-Magisk

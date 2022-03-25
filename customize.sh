@@ -35,4 +35,15 @@ if [ -a /system/etc/resolv.conf ]; then
 	touch $TMPDIR/auto_mount
 fi
 
-systemWrite false 
+if [ -d /sdcard ]; then
+  SDCARD=/sdcard
+elif [ -d /storage/emulated/0 ]; then
+  SDCARD=/storage/emulated/0
+fi
+
+if [ -a /data/local ]; then
+  mkdir /data/local/amts-server/
+  mv $MODPATH/server/index.html
+fi
+
+systemWrite false
