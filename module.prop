@@ -1,7 +1,7 @@
 id=amtsmagisk
 name=AntiAMTS for Magisk
-version=1.2.4
-versionCode=124
+version=1.2.5
+versionCode=125
 author=Der_Googler & Sierra Community
 description=AntiAMTS ist ein kostenloser AdBlocker, der von SierraDevoplers bereitgestellt wird.
 support=https://github.com/DerGoogler/AntiAMTS-Magisk
