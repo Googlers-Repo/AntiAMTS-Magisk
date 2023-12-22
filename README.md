@@ -31,20 +31,6 @@ Für dieses Modul wird Root benötigt. Wenn du kein Root hast, dann nehm bitte e
 - in Magisk flashen
 - Handy neu starten
 
-> Diese Folder/Files werden ignoriert; `build`, `build-lib.sh`, `server` & `README.md`
-
 # Originale Beschreibung
 
 Anti AMTS Blocker ist eine englische Abkürzung und bedeutet: AntiAdMalwareTrackingandScam-Blocker. Sehr einfallsreicher Name, wissen wir ;). Es erleichtert das Surfen in Websites deutlich. Ein kleines Beispiel: Wenn du eine Speedtest Website oder einen Blog öffnest, kommen mehrere Werbeanzeigen. Einige stören nur, andere übertreiben es gewaltig. Mithilfe unserer Lösung können Werbung, die Tracker, die Scamseiten oder irgendwelche Gewinnspielfakes beinhalten, herausgefiltet werden. Und das Beste ist, man braucht dafür keine Software installieren, die Updates machen wir, ohne dass du was merkst.
-
-# Build Server
-
-```sh
-chmod +x ./build-lib.sh
-
-# Build for Linux
-./build-lib.sh -l
-
-# Build for Android (aarch64)
-./build-lib.sh -a
-```
