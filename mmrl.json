@@ -2,10 +2,6 @@
     "author": "DerGoogler",
     "logo": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
     "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
-    "screenshots": [
-        "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-1.png",
-        "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-2.png"
-    ],
     "categories": [
         "Security",
         "Adblocking and Hosts Files",
